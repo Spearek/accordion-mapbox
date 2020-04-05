@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/accordion-mapbox/static/css/main.abb54faa.chunk.css",
+    "main.js": "/accordion-mapbox/static/js/main.1079581d.chunk.js",
+    "main.js.map": "/accordion-mapbox/static/js/main.1079581d.chunk.js.map",
+    "runtime-main.js": "/accordion-mapbox/static/js/runtime-main.e1c5b8e4.js",
+    "runtime-main.js.map": "/accordion-mapbox/static/js/runtime-main.e1c5b8e4.js.map",
+    "static/js/2.4589f215.chunk.js": "/accordion-mapbox/static/js/2.4589f215.chunk.js",
+    "static/js/2.4589f215.chunk.js.map": "/accordion-mapbox/static/js/2.4589f215.chunk.js.map",
+    "index.html": "/accordion-mapbox/index.html",
+    "precache-manifest.aa3b623b0960ac12926099e7c52cb2b1.js": "/accordion-mapbox/precache-manifest.aa3b623b0960ac12926099e7c52cb2b1.js",
+    "service-worker.js": "/accordion-mapbox/service-worker.js",
+    "static/css/main.abb54faa.chunk.css.map": "/accordion-mapbox/static/css/main.abb54faa.chunk.css.map",
+    "static/js/2.4589f215.chunk.js.LICENSE.txt": "/accordion-mapbox/static/js/2.4589f215.chunk.js.LICENSE.txt",
+    "static/media/now-ui-kit.css": "/accordion-mapbox/static/media/nucleo-outline.8ebec31f.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1c5b8e4.js",
+    "static/js/2.4589f215.chunk.js",
+    "static/css/main.abb54faa.chunk.css",
+    "static/js/main.1079581d.chunk.js"
+  ]
+}
